@@ -12,5 +12,5 @@ services:
     ports:
       - 3000:3000
       - 69:69/udp
-      - 8088:80 #optional
+      - 8088:80 #optiona
     restart: unless-stopped
